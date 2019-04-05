@@ -1,4 +1,8 @@
-# admin-dashboard
+# Spring Server Admin
+A simple and beautiful Spring Boot administrator dashboard built in Vuetify.
+
+<img src="desktop.png" />
+<img src="mobile.png" />
 
 ## Project setup
 ```
